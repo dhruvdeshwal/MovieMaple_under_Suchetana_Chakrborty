@@ -22,7 +22,6 @@ This is a **Movie Recommendation System** built in **C++**, utilizing **Data Str
 ## 🛠️ File Structure
 ```
 📂 DSA_Project
- ├── .gitignore          # Ignore unnecessary files (like .exe)
  ├── cleaned_movies.csv  # Dataset with movie details
  ├── main.cpp            # Main driver file
  ├── helper.cpp          # Helper functions
@@ -62,5 +61,4 @@ Contributions are welcome! To contribute:
 ---
 
 ## 🔗 Contact
-📧 **Email**: [b23bb1033@iitj.ac.in](mailto:b23bb1033@iitj.ac.in)  
-🐙 **GitHub**: [Prateek-1110](https://github.com/Prateek-1110)
+📧 **Email**: (b23mt1017@iitj.ac.in)  
